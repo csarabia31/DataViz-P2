@@ -1,2 +1,14 @@
-Creates a parallel coordinate graph with the given data set. Written in Processing. When you run it, dialog box will open, select the given data set (in files)
-and the graph will be created
+Creates a parallel coordinate graph with the given data set. When you run it a dialog box will open, select the given data set (in files)
+and the graph will be displayed.
+
+This project was done using Processing, so if you want to run:
+
+    -Go to https://processing.org/download/ To download Processing
+    -Download Files and open using Processing
+    -click run
+
+If you want to see screenshots of what the output looks like, go to folder "Screenshots".
+
+# Project By: Camilo Sarabia
+## Skeleton Code By: Dr. Paul Rosen
+
