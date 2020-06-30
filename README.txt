@@ -1,4 +1,4 @@
-Creates a parallel coordinate graph with the given data set. When you run it a dialog box will open, select the given data set (in files)
+Creates a parallel coordinate graph with the given data set. When you run it a dialog box will open, select the given data set (in folder "data")
 and the graph will be displayed.
 
 This project was done using Processing, so if you want to run:
